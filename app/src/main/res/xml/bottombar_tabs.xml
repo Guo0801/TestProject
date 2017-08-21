@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs >
+    <tab
+        id="@+id/tab_map"
+        icon="@drawable/map_selected"
+        title="态势"/>
+
+    <tab
+        id="@+id/tab_chat"
+        icon="@drawable/chat_selected"
+        title="聊天"/>
+
+    <tab
+        id="@+id/tab_contact"
+        icon="@drawable/contact_selected"
+        title="联系人"/>
+
+    <tab
+        id="@+id/tab_setting"
+        icon="@drawable/setting_selected"
+        textSize="10sp"
+        title="设置"/>
+
+
+</tabs>
